@@ -1,0 +1,27 @@
+<div class="ticket">
+  <div class="ticket-details">
+    <div class="stations">
+      <div class="station-info">
+        <div class="station-name">{{ .Get "departure_station_zh" }}<br><span class="english">{{ .Get "departure_station_en" }}</span></div>
+      </div>
+      <div class="route">
+        <div class="train-number">{{ .Get "train_number" }}</div>
+        <div class="arrow">
+          <div class="arrow-line"></div>
+          <div class="arrow-point"></div>
+        </div>
+      </div>
+      <div class="station-info">
+        <div class="station-name">{{ .Get "arrival_station_zh" }}<br><span class="english">{{ .Get "arrival_station_en" }}</span></div>
+      </div>
+    </div>
+    <div class="times">
+      <div class="departure-time">{{ .Get "departure_time" }} 开</div>
+      <div class="arrival-time">{{ .Get "arrival_time" }} 到</div>
+    </div>
+  </div>
+  <div class="ticket-info">
+    <div class="price">￥{{ .Get "price" }}元</div>
+    <div class="seat">{{ .Get "seat_type" }}</div>
+  </div>
+</div>

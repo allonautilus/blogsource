@@ -1,0 +1,118 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f5f5f5;
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+.ticket {
+  width: 400px;
+  padding: 15px;
+  border: 1px solid #ccc;
+  background: linear-gradient(to bottom, #ffffff, #f0f8ff);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  position: relative;
+}
+
+.ticket::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 5px;
+  background-color: #3b99fc;
+}
+
+.ticket-details {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.ticket-details .stations {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.ticket-details .station-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 40px;
+}
+
+.ticket-details .route {
+  display: flex;
+  align-items: center;
+  margin: 0 10px;
+}
+
+.ticket-details .train-number {
+  margin-bottom: 5px;
+}
+
+.ticket-details .departure-time,
+.ticket-details .arrival-time {
+  font-size: 14px;
+  margin-top: 5px;
+}
+
+.times {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2px;
+  font-size: 14px;
+}
+
+.ticket-info {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 10px;
+  font-size: 13px;
+}
+
+.english {
+  font-size: 14px;
+  color: #333;
+}
+
+.route {
+  position: relative;
+}
+
+.arrow {
+  width: 90px;
+  margin-top: 5px;
+  margin-left: 3px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  align-items: center;
+}
+
+.arrow-line {
+  margin-top: 4px;
+  width: 75px;
+  background: #a3c8e3;
+  height: 2px;
+  float: left;
+}
+
+.arrow-point {
+  width: 0;
+  height: 0;
+  border-top: 6px solid transparent;
+  border-left: 18px solid #a3c8e3;
+  border-bottom: 0 solid transparent;
+  border-right: 0 solid transparent;
+  float: right;
+}
