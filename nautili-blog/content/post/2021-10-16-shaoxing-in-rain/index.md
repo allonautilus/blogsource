@@ -18,6 +18,7 @@ weight: 1       # You can add weight to some posts to override the default sorti
     departure_time="2021年10月16日 07:32"
     arrival_time="2021年10月16日 08:59"
     price="75"
+	seat_type="二等座"
 >}}
 
 {{< train_ticket 
@@ -27,6 +28,7 @@ weight: 1       # You can add weight to some posts to override the default sorti
     departure_time="2021年10月16日 21:11"
     arrival_time="2021年10月16日 22:34"
     price="75"
+	seat_type="二等座"
 >}}
 
 
@@ -71,4 +73,4 @@ weight: 1       # You can add weight to some posts to override the default sorti
 景区深处有一座兰亭书法博物馆，博物馆的设计和其中的布展都自然是极美的，即使我对书法一窍不通，也洗脑一样对此处展览的书法所沉醉，最终在博物馆商店还买了一本《兰亭集序》实体册子。
 
 # 王守仁墓
-我觉得自己好傻。在地图上看到有个王守仁墓，以为会是像祢衡墓那样在路边，就在逛完兰亭之后的傍晚兴冲冲地跑过来，结果到了才发现是被圈在了景区里，看着门口公示的闭园时间傻了眼。只好往回返，在荒郊野外上看着一辆又一辆疾驰而去的重型货车，等着不知什么时候会来的公交……
+在地图上看到有个王守仁墓，以为会是像祢衡墓那样在路边，就在逛完兰亭之后的傍晚兴冲冲地跑过来，结果到了才发现是被圈在了景区里，看着门口公示的闭园时间傻了眼。只好往回返，在荒郊野外上看着一辆又一辆疾驰而去的重型货车，等着不知什么时候会来的公交……
