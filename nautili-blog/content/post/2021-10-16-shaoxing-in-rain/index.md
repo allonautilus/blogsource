@@ -23,11 +23,12 @@ weight: 1       # You can add weight to some posts to override the default sorti
 {{< train_ticket 
     departure_station_zh="绍兴北"
     arrival_station_zh="上海虹桥"
-    train="D3108"
-    departure_time="21:11"
-    arrival_time="22:34"
+    train_number="D3108"
+    departure_time="2021年10月16日 21:11"
+    arrival_time="2021年10月16日 22:34"
     price="75"
 >}}
+
 
 出发之前，在Bannergress上找到一个名为「游鲁迅故里 看越地风情」的组图，路线途径鲁迅故里、城市广场、西施山遗址公园三个地标，本计划就沿着任务路线作为本次绍兴一日游的行程，奈何计划赶不上变化。
 
