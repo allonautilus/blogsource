@@ -1,0 +1,3 @@
+[submodule "nautili-blog/hugo-theme-stack-starter"]
+	path = nautili-blog/hugo-theme-stack-starter
+	url = https://github.com/CaiJimmy/hugo-theme-stack-starter
