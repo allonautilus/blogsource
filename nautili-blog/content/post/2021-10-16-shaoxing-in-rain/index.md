@@ -2,6 +2,7 @@
 title: 雨中访绍兴
 description: 选择绍兴作为出来散心一日的目的地，并没有什么特别的原因，大概是看离得近，又有鲁迅这张城市名片在，总该有些什么值得一游。
 slug: 2021-10-16-shaoxing-in-rain
+image: PXL_20211016_074404973-lanting.jpg
 date: 2021-10-16 00:00:00+0000
 categories:
     - Travel | 游记
