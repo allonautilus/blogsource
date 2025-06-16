@@ -16,11 +16,11 @@ weight: 1       # You can add weight to some posts to override the default sorti
 ---
 自看了[《玛丽苏和金手指和三国》](https://www.jjwxc.net/onebook.php?novelid=5148726)后，一直记挂着结局中丞相要去看的涿郡桃花。最近，又看到有小红书博主分享的北京周边游中提到涿州，我于是受到启发，抓住春光的尾巴，来了一次追寻桃花的一日游。
 
-# 华阳公园
+## 华阳公园
 
 从北京乘坐838路公交，在「北坛村北」下车，步行不久便抵达了华阳公园。乍看之下，与其他县城的公园并无太大差别，直到后来在博物馆里读到的时候才知道，原来这里就是战国时燕国设宴送别荆轲的华阳台旧址所在。
 
-# 辽代双塔
+## 辽代双塔
 
 接下来是涿州的双塔，这两座塔均为辽代建筑，都是八角仿木构楼阁式砖塔。智度寺塔（南塔）建于辽太平十一年（1031年），5层，高44米；云居寺塔（北塔）建于辽大安八年（1092年），6层，高55.69米，是少见的层数为偶数的塔。涿州古八景之一便是这里的「双塔晴烟」。
 2001年，双塔被公布为第五批全国重点文物保护单位。
@@ -32,7 +32,7 @@ weight: 1       # You can add weight to some posts to override the default sorti
 相关文章：
 [孙立极,王 珏.做好双塔保护 展现千年古韵（来信调查）[N]. 人民日报，2023-03-27(7).](http://paper.people.com.cn/rmrb/html/2023-03/27/nw.D110000renmrb_20230327_1-07.htm#)
 
-# 涿州市博物馆
+## 涿州市博物馆
 
 ![涿州博物馆](PXL_20230415_030834909-zhuozhou-museum.jpg) ![涿水长歌](PXL_20230415_031435466-history-of-zhuoshui.jpg)
 
@@ -48,7 +48,7 @@ weight: 1       # You can add weight to some posts to override the default sorti
 
 ![牛肉罩饼](PXL_20230415_042752134-niurouzhaobing.jpg)
 
-# 鼓楼大街
+## 鼓楼大街
 
 ![鼓楼大街](PXL_20230415_050035646-guloudajie.jpg)
 
@@ -56,7 +56,7 @@ weight: 1       # You can add weight to some posts to override the default sorti
 
 涿州的公交很难等，很少有站牌，班次也不固定。据本地人说，有一个微信群里面会通知公交班次，但间隔还是很久。我本想坐公交去张飞庙，但久等不来，只好叫了网约车前往。
 
-# 张飞庙
+## 张飞庙
 
 ![张飞庙大门](PXL_20230415_061443242-zhang-fei-temple-gate.jpg) ![张飞庙文保碑及简介](PXL_20230415_061802244-zhang-fei-temple-stele.jpg) ![张飞庙欢迎您](PXL_20230415_071804454-zhang-fei-temple-welcome.jpg)
 
@@ -100,7 +100,7 @@ weight: 1       # You can add weight to some posts to override the default sorti
 
 ![农田](PXL_20230415_072806001-field.jpg)
 
-# 三义宫
+## 三义宫
 
 ![三义宫·建设中](PXL_20230415_080150262-construction.jpg) ![三义宫围墙](PXL_20230415_075604431-wall.jpg) ![《刘备托孤》](IMG_20230415_160229-liu-bei-heir.jpg)
 
@@ -110,7 +110,7 @@ weight: 1       # You can add weight to some posts to override the default sorti
 
 ![美丽的家乡——楼桑庙村](PXL_20230415_084414156-lousangmiao-village.jpg) ![楼桑庙](PXL_20230415_084634663-lousangmiao.jpg)
 
-# 三义广场
+## 三义广场
 
 ![三义广场](PXL_20230415_084823850-sanyi-place.jpg)
 
