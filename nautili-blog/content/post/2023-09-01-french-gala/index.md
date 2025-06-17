@@ -4,9 +4,10 @@ description: 法Gala，是特别圆满的重温故梦。
 slug: 2023-09-01-french-gala
 date: 2023-09-01 00:00:00+0000
 categories:
-    - Theatre | 剧院
+    - Performance | 演出
 tags:
     - Musical | 音乐剧
+    - Concert
     - Notre-Dame de Paris | 巴黎圣母院
     - Mozart l'Opéra Rock | 摇滚莫扎特
     - Mikelangelo Loconte

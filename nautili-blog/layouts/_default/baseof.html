@@ -2,9 +2,9 @@
 <html lang="{{ .Site.LanguageCode }}" dir="{{ default `ltr` .Language.LanguageDirection }}">
     <head>
         {{- partial "head/head.html" . -}}
-        {{- block "head" . -}}
-		<link rel="stylesheet" href="{{ "css/train_ticket.css" | relURL }}">
-		{{ end }}
+        {{- block "head" . -}}{{ end }}
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
     </head>
     <body class="{{ block `body-class` . }}{{ end }}">
         {{- partial "head/colorScheme" . -}}
@@ -21,7 +21,7 @@
                 {{ partial "sidebar/left.html" . }}
             {{- end -}}
             {{- block "right-sidebar" . -}}{{ end }}
-            <main class="main full-width">
+            <main class="main">
                 {{- block "main" . }}{{- end }}
             </main>
         </div>

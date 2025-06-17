@@ -1,0 +1,30 @@
+---
+title: 19-07-23 米con
+slug: 2019-07-23-mikele-con
+date: 2019-07-23 00:00:00+0000
+categories:
+    - Performance | 演出
+tags:
+    - Concert
+    - Mikelangelo Loconte
+weight: 1       # You can add weight to some posts to override the default sorting (date descending)
+---
+* 之前既没看直播也没看首页任何一段视频的我终于知道为什么之前那么多人在说My generation了。这个迷幻灯光（甚至让我想起snm里邪教狂舞那段），加上米Sid共用一麦对唱，加上Sid抱着吉他上蹿下跳…就，好爽。
+
+* Le Carnivore现场算是我有生之年的宝贵经历了，真挺让人想哭的。只是不太理解为什么前面的vip观众们一听到曲目就猛然新举起了一堆屏幕，遇到自己喜欢的歌难道不是应该减少精力分散专心欣赏吗（
+
+* 我现在越来越喜欢混合语言的歌了，感觉这种歌创作时有一种随心所欲的自由度，就反而在情感表达上更流畅。
+
+* Sid确实好像斯内普搞乐队（x…他真好看…！！！长发男孩子真是宝藏，我好喜欢看他甩头发/用手撩头发…我的眼里全是他的头发（。
+
+* 贝斯老哥Christophe好可爱而且我觉得我越来越喜欢贝斯的声音了（？
+
+* Alexandre的姓跟我的responsable听起来太像了（Perroud/Peyroux），搞得我在听到时非常紧张，仿佛在被论文的压力追赶orz
+
+* 这次根本就没有对着歌单预习曲目的热情，搞得con上好多歌不认识。但是那几首熟悉的歌一听就让我仿佛回到了去年，回想起了一些从前的我。
+
+* 他说“Don't forget us”时我猛然想起他去年也说过同样的话。唉。
+
+* Sono io che penso真好，唱意语歌的老米真好。
+
+* 希望能再见。

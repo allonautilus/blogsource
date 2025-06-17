@@ -1,6 +1,6 @@
 baseURL = "https://blog.nautile.one/"
 languageCode = "en-US"
-paginate = 5
+paginate = 10
 title = "Nautili Blog"
 theme = "hugo-theme-stack"
 
@@ -16,10 +16,10 @@ hasCJKLanguage = true
   mainSections = ["post"]
   featuredImageField = "image"
   rssFullContent = true
-  favicon = "" # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
+  favicon = "images/favicon.png" # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
 
   [params.footer]
-    since = 2020
+    since = 2024
     customText = ""
 
   [params.dateFormat]
@@ -27,13 +27,14 @@ hasCJKLanguage = true
     lastUpdated = "Jan 02, 2006 15:04 MST"
 
   [params.sidebar]
-    emoji = "🍥"
-    subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    compact = true
+    emoji = "🤔"
+    subtitle = "Naut's Blog"
     
     [params.sidebar.avatar]
       enabled = true
       local = true
-      src = "img/avatar.png"
+      src = "images/avatar.png"
 
   [params.article]
     math = false
@@ -126,9 +127,10 @@ hasCJKLanguage = true
   [params.widgets]
     homepage = [
       { type = "search" },
-      { type = "archives", params = { limit = 5 } },
       { type = "categories", params = { limit = 10 } },
-      { type = "tag-cloud", params = { limit = 10 } }
+      { type = "tag-cloud", params = { limit = 10 } },
+      { type = "archives", params = { limit = 10 } }
+      
     ]
     page = [
       { type = "toc" }
@@ -155,20 +157,58 @@ hasCJKLanguage = true
     [params.imageProcessing.content]
       enabled = true
 
+  [params.custom_css]
+    ticket = "css/train_ticket.css"
+
 [menu]
-  [[menu.main]]
+
+[[menu.main]]
+  name = "Posts"
+  weight = 30
+  identifier = "archives"
+  url = "/post/"
+  [menu.main.params]
+    icon = "article"  
+
+[[menu.main]]
+  name = "Categories"
+  url = "/categories/"
+  weight = 40
+  identifier = "categories"
+  [menu.main.params]
+    icon = "category"  
+
+[[menu.main]]
+  name = "Tags"
+  url = "/tags/"
+  weight = 50
+  identifier = "tags"
+  [menu.main.params]
+    icon = "tag"  
+
+[[menu.main]]
+  name = "About Me"
+  url = "/about/" 
+  weight = 80
+  identifier = "about"
+  [menu.main.params]
+    icon = "user"  
+
   [[menu.social]]
-    identifier = "github"
-    name = "GitHub"
-    url = "https://github.com/CaiJimmy/hugo-theme-stack"
+    identifier = "instagram"
+    name = "Instagram"
+    url = "https://www.instagram.com/allonautile/"
     [menu.social.params]
-      icon = "brand-github"
+      icon = "brand-instagram"
+      newTab = true
+      
   [[menu.social]]
-    identifier = "twitter"
-    name = "Twitter"
-    url = "https://twitter.com"
+    identifier = "threads"
+    name = "Threads"
+    url = "https://www.threads.net/@allonautile"
     [menu.social.params]
-      icon = "brand-twitter"
+      icon = "brand-threads"
+      newTab = true
 
 [related]
   includeNewer = true
