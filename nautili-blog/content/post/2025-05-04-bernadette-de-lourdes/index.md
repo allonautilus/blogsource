@@ -9,7 +9,7 @@ categories:
 tags:
     - 音乐剧
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
-
+draft: true
 ---
 宗教宣传剧，影厅里除了我只有三对francophones老夫妻，全片仿佛只有一个机位，舞台上的收音效果不如观众席里的掌声。但我看哭了🥹 ​​​
 

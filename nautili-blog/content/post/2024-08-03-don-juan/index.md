@@ -9,6 +9,7 @@ tags:
     - Musical | 音乐剧
     - Don Juan | 唐璜
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
+draft: true
 ---
 走近NAC时，从街上就透过二楼窗户看到巨大的白色「囍」字，当天有人预定了二楼办婚礼，后来《唐璜》散场之后还看到新娘穿着长长的婚纱从剧院公共区域穿过去，一位穿着旗袍的女士跟在她身边帮她提着裙尾。走进剧场时，看到舞台也布置得仿佛婚礼现场。
 

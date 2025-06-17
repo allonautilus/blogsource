@@ -12,6 +12,7 @@ tags:
     - Starmania | 星幻
     - Notre-Dame de Paris | 巴黎圣母院
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
+draft: true
 ---
 
 月初看完《唐璜》法剧上头期间，就又开始纠结起，为了星幻演唱会去冲魁城。

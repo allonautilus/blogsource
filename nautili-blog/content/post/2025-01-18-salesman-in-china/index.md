@@ -16,6 +16,7 @@ links:
     website: https://nac-cna.ca/en/event/notes/35938/zh-cn
   - title: Notes on stelpolva.moe
     website: https://stelpolva.moe/notes/a36qy3ggd79r009m
+draft: true
 ---
 
 《推销员在中国》真的好棒，能看到中文戏剧讨论文革和之后的伤痛，简直是之前从没敢想过的体验，就是信息量太大了，需要再刷之前先恶补背景知识…

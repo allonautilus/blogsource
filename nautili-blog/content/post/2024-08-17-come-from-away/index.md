@@ -9,6 +9,7 @@ tags:
     - Musical | 音乐剧
     - Come From Away | 来自远方
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
+draft: true
 ---
 
 特别特别幸运地昨晚临时刷到出票🥺感谢NAC感谢出票人让我拥有15刀超值享受🥰
