@@ -8,7 +8,12 @@ showMeta: false
 
 ---
 
-[Mastodon](https://bgme.me/@nautile)
+可能这里值得分享的内容不多，但因为建站太好玩了所以我也要建！
+
+新加拿大人
+转码菜鸟
+AuDHD
+
 
 # Personal Logs
 ## Books

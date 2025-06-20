@@ -5,14 +5,12 @@ slug: 2023-04-15-zhuozhou-pagoda-peachflower
 date: 2023-04-15 00:00:00+0000
 image: PXL_20230415_064154699-peachflower.jpg
 categories:
-    - Travel | 游记
+    - travel
 tags:
-    - 涿州
-    - 三國
-    - 張飛
-    - 劉備
-weight: 1       # You can add weight to some posts to override the default sorting (date descending)
-
+    - zhuozhou
+    - three-kingdoms
+    - zhang-fei
+    - liu-bei
 ---
 自看了[《玛丽苏和金手指和三国》](https://www.jjwxc.net/onebook.php?novelid=5148726)后，一直惦记着结局中丞相要去看的涿郡桃花。最近，又看到有小红书博主分享的北京周边游中提到涿州，于是让我受到启发，抓住春光的尾巴，来了一次追寻桃花的一日游。
 

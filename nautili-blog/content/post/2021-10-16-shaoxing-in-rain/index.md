@@ -5,10 +5,9 @@ slug: 2021-10-16-shaoxing-in-rain
 image: PXL_20211016_074404973-lanting.jpg
 date: 2021-10-16 00:00:00+0000
 categories:
-    - Travel | 游记
+    - travel
 tags:
-    - 绍兴
-weight: 1       # You can add weight to some posts to override the default sorting (date descending)
+    - shaoxing
 ---
 选择绍兴作为出来散心一日的目的地，主要是因为离得不算远，又觉得有鲁迅这张城市名片在，总该有些什么值得一游。至于决定好这一行程之后马上买了火车票，才发现当天是个不宜出行的雨天，也没什么办法。
 

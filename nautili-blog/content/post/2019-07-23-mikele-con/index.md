@@ -3,13 +3,12 @@ title: 19-07-23 米con
 slug: 2019-07-23-mikele-con
 date: 2019-07-23 00:00:00+0000
 categories:
-    - Performance | 演出
+    - performance
 tags:
-    - Concert
+    - concert
     - Mikelangelo Loconte
-weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
-* 之前既没看直播也没看首页任何一段视频的我终于知道为什么之前那么多人在说My generation了。这个迷幻灯光（甚至让我想起snm里邪教狂舞那段），加上米Sid共用一麦对唱，加上Sid抱着吉他上蹿下跳…就，好爽。
+* 之前既没看直播也没看首页任何一段视频的我终于知道为什么之前那么多人在说My generation了。这个迷幻灯光（甚至让我想起 Sleep No More 里邪教狂舞那段），加上米Sid共用一麦对唱，还有Sid抱着吉他上蹿下跳…就，好爽。
 
 * Le Carnivore现场算是我有生之年的宝贵经历了，真挺让人想哭的。只是不太理解为什么前面的vip观众们一听到曲目就猛然新举起了一堆屏幕，遇到自己喜欢的歌难道不是应该减少精力分散专心欣赏吗（
 

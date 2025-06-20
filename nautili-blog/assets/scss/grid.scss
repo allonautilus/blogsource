@@ -100,12 +100,12 @@ main.main {
 }
 
 
+
 /* 所有容器元素不要撑破页面 */
-.container,
-.main-container,
+
+
 main,
 .main,
-.article-content,
 .flex {
 max-width: 100%;
 overflow-x: hidden;

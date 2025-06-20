@@ -6,7 +6,7 @@ date: 2024-10-06 00:00:00+0000
 categories:
     - Performance | 演出
 tags:
-    - Concert
+    - concert
     - Daniel Lavoie
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 draft: true

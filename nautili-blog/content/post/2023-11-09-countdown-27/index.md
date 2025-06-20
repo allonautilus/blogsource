@@ -4,7 +4,7 @@ description:
 slug: 2023-11-09-countdown-27
 date: 2023-11-09 00:00:00+0000
 categories:
-    - Daily | 日常
+    - life
 tags:
 
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)

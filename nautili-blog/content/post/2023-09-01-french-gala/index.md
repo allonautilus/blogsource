@@ -6,12 +6,11 @@ date: 2023-09-01 00:00:00+0000
 categories:
     - Performance | 演出
 tags:
-    - Musical | 音乐剧
+    - Musical
     - Concert
     - Notre-Dame de Paris | 巴黎圣母院
     - Mozart l'Opéra Rock | 摇滚莫扎特
-    - Mikelangelo Loconte
-weight: 1       # You can add weight to some posts to override the default sorting (date descending)
+    - Mikelangelo-Loconte
 ---
 最初刚看到宣传时，我整个人在一种比较疲惫的状态，对开票无动于衷，压根没去努力找代买抢票。即使看到了这群法国人入境的消息之后也还在想，只要切断相关资讯来源，两眼一闭，任它什么绝世盛事都能当不存在。
 

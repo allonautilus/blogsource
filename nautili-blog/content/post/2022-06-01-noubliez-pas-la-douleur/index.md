@@ -2,12 +2,11 @@
 title: N’oubliez pas la douleur
 description: Let this pain become a power to get out of this shit.
 slug: 2022-06-01-noubliez-pas-la-douleur
-date: 2022-06-01 00:00:00+0000
+date: 2022-06-01 01:30:00+0000
 categories:
-    - Daily | 日常
+    - life
 tags:
-    - 上海
-weight: 1       # You can add weight to some posts to override the default sorting (date descending)
+    - shanghai
 ---
 凌晨一点半，外面路上的跑车轰鸣声和鬼哭狼嚎声更响了。
 

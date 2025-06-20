@@ -5,9 +5,9 @@ slug: 2024-12-taiwan-taipei
 image: 
 date: 2024-12-28 00:00:00+0000
 categories:
-    - Travel | 游记
+    - travel
 tags:
-    - 台灣
+    - taiwan
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 draft: true
 ---

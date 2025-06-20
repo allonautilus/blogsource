@@ -7,7 +7,8 @@ categories:
     - Films | 电影
     - Performance | 演出
 tags:
-    - 音乐剧
+    - musical
+    - lourdes
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 draft: true
 ---

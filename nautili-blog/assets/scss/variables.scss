@@ -71,10 +71,10 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
         --card-padding: 30px;
     }
 
-    --small-card-padding: 25px 20px;
+    --small-card-padding: 20px 15px;
 
     @include respond(md) {
-        --small-card-padding: 25px;
+        --small-card-padding: 15px;
     }
 
     &[data-scheme="dark"] {

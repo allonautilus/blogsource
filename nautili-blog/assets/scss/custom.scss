@@ -1,0 +1,10 @@
+/* Place your custom SCSS in HUGO_SITE_FOLDER/assets/scss/custom.scss */
+.ticket-wrapper {
+    overflow-x: auto;
+    width: 100%;
+  }
+  
+  .ticket {
+    min-width: max-content;  // 让它不要自动缩小
+  }
+  
